@@ -1,7 +1,3 @@
-package com.company;
-
-
-
 public class Hand {
     // Constants for types of hands
     // The numbers used for the hand
