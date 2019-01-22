@@ -1,5 +1,3 @@
-package com.company;
-
 public class HandDemo {
 
         public static void main(String[] args) {
