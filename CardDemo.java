@@ -1,5 +1,3 @@
-package com.company;
-
 public class CardDemo {
     public static void main(String[] args) {
 
